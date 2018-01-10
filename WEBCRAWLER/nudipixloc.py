@@ -59,21 +59,21 @@ else:
 try:
     images_dir = sys.argv[6]
 except:
-    images_dir = = '../Images/'
+    images_dir = '../Images/'
 else:
     pass
 
 try:
     infos_dir = sys.argv[8]
 except:
-    infos_dir = = '../Infos/'
+    infos_dir =  '../Infos/'
 else:
     pass
 
 try:
     thumbs_dir = sys.argv[10]
 except:
-    thumbs_dir = = '../Thumbs/'
+    thumbs_dir = '../Thumbs/'
 else:
     pass
 
