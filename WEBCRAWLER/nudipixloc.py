@@ -51,7 +51,7 @@ else:
 try:
     work_dir = sys.argv[4]
 except:
-    work_dir = '/media/root/82EC-3DCC/NUDIPIXLOC/'
+    work_dir = '/media/root/d4f174a2-4959-4719-9086-7e2af8e2c79c/NUDILOC/'
 else:
     pass
 
